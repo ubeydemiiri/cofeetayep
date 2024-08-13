@@ -1,0 +1,61 @@
+
+.bg-danger-hover:hover {
+    background: red;
+}
+
+.ms-10 {
+    margin-left: 10rem;
+}
+
+.me-10 {
+    margin-right: 10rem;
+}
+
+.shadow-card {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.cl-danger-hover:hover {
+    color: #df2222;
+    background: #df2222;
+
+}
+
+.btn-hover:hover {
+    color: #000000;
+    border: 1px black
+}
+
+.bg-img {
+    background-image: url('./img/coffee2.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+.h-10 {
+    height: 20rem;
+}
+
+.img-style {
+    width: 50;
+}
+
+.icon-style,
+.user_icon {
+    width: 20px;
+    height: 20px;
+    fill: #ffffff;
+}
+
+.login-bt {
+    align-items: center;
+}
+
+.navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath stroke="rgba%28255, 255, 255, 0.5%29" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"/%3E%3C/svg%3E');
+}
